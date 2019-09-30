@@ -1,1 +1,2 @@
-Изначально пытался путь для фото сделать в виде ../images/myphoto.jpg но Live server его не отображал несмотря на то что если кликнуть в самом vscode на путь к файлу оно его находит.
+https://andreyarnapolin.github.io/rezume/en/resumeEN.html
+https://andreyarnapolin.github.io/rezume/ru/resumeRU.html
